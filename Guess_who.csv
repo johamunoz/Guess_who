@@ -1,0 +1,25 @@
+﻿Number,Name,hair,eyes,glasses,hat,gender,mustache,beard,bold
+0,Sam,white,brown,has no,no,male,no,no,is
+1,Pepe,blond,brown,has,no,male,no,no,is not
+2,Peter,white,brown,has,no,male,no,no,is not
+3,George,white,brown,has no,a,male,no,no,is not
+4,Phil,black,brown,has no,no,male,no,a,is not
+5,Claire,red,blue,has ,a,female,no,no,is not
+6,Anita,blond,blue,has no,no,female,no,no,is not
+7,Alfred,red,brown,has no,no,male,a,no,is not
+8,Susan,white,brown,has no,no,female,no,no,is not
+9,Richard,brown,brown,has no,no,male,a,a,is 
+10,Hamish,red,brown,has no,no,male,no,no,is not
+11,Bill,brown,brown,has no,no,male,a,no,is not
+12,Harry,red,brown,has no,no,male,no,no,is 
+13,David,blond,brown,has no,no,male,no,no,is not
+14,Bernard,brown,brown,has no,a,male,no,no,is not
+15,Alexander,black,brown,has no,no,male,a,no,is not
+16,Thomas,black,blue,has ,no,male,no,no,is 
+17,Robert,brown,blue,has no,no,male,no,no,is not
+18,John,white,blue,has no,no,male,no,no,is not
+19,Maria,brown,brown,has no,a,female,no,no,is not
+20,Will,red,brown,has no,no,male,no,a,is 
+21,Ernest,blond,brown,has no,a,male,no,no,is not
+22,Carl,blond,brown,has no,no,male,a,no,is not
+23,Ana,black,brown,has no,no,female,no,no,is not
